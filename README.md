@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 Ask me about Full-Stack Web Dev<br>
+💬 Love to fail just to Learn v<br>
 
 
 ## 🌐 Socials:
