@@ -5,7 +5,7 @@ I love building cool web apps, solving problems, and exploring new technologies.
 
 🔹 Currently a **CSE Undergrad**  
 🔹 Learning **MERN Stack Development**  
-🔹 Building innovative **Web & App Projects**  
+🔹 Building innovative **Web Projects**  
 
 ---
 
