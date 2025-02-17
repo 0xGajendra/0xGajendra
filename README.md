@@ -12,7 +12,7 @@ I love building cool web apps, solving problems, and exploring new technologies.
 
 
 ## 📊 GitHub Stats  
-![Gajendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xGajendrae&show_icons=true&theme=radical)  
+![Gajendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0xGajendra&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xGajendra&layout=compact&theme=radical)  
 
 ---
