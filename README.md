@@ -1,5 +1,10 @@
 # Hey there! 👋 I'm Gajendra
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/0xgajendra/count.svg" />
+</p>
+
 **A passionate developer who turns ideas into reality!**  
 I love building cool web apps, solving problems, and exploring new technologies. 🚀  
 
