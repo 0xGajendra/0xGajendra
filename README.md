@@ -77,7 +77,6 @@
 
 <!-- 🔗 Socials -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Revolving%20Hearts.png" alt="Revolving Hearts" width="250" height="250" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Darker+Grotesque&size=100&duration=1000&pause=5000&color=03FF0B&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=Socials" />
 
   <p align="center">
