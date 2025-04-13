@@ -1,20 +1,32 @@
-# Hey there! 👋 I'm Gajendra
-
-<p align="center"> 
+<div align="center">
+  <table>
+    <tr>
+      <td valign="middle">
+        <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/0xgajendra/count.svg" />
 </p>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnFydmJic3NjNXI4ZHl5MGRreXlzbHlqZDd4aWJ2MWQxbXRlMzVpNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xCCqt6qDewWf6zriPX/giphy.gif" height="300">
+      </td>
+      <td align="center" valign="middle">
+        <h4 align="center">
+          Hey There! 
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="48" height="48" />
+        </h4>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&weight=600&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=I'm+Gajendra" alt="Typing SVG" /></a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-**A passionate developer who turns ideas into reality!**  
-I love building cool web apps, solving problems, and exploring new technologies. 🚀  
-
-🔹 Currently a **CSE Undergrad**  
-🔹 Learning **MERN Stack Development**  
-🔹 Building innovative **Web Projects**  
-
----
 
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Darker+Grotesque&weight=600&size=80&pause=1000&color=03FF0BFF&center=true&vCenter=true&random=true&width=2000&height=100&lines=I+Design+Websites;I+Develop+Websites;I+Deploy+Websites)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Darker+Grotesque&weight=600&size=30&duration=1000&pause=6000&color=03FF0BFF&center=true&vCenter=true&multiline=true&width=1000&height=50&lines=CSE+undergrad+focused+on+MERN+stack+development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Darker+Grotesque&weight=600&size=30&duration=2000&pause=5000&color=03FF0B&center=true&vCenter=true&multiline=true&width=1000&lines=Building+sleek+web+apps+with+real-world+impact)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Darker+Grotesque&weight=600&size=30&duration=3000&pause=4000&color=03FF0B&center=true&vCenter=true&multiline=true&width=1000&lines=Always+learning%2C+always+shipping)](https://git.io/typing-svg)
 
 ## 📊 GitHub Stats  
 <p align="center">
