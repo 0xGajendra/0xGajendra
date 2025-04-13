@@ -19,7 +19,7 @@ I love building cool web apps, solving problems, and exploring new technologies.
 ## 📊 GitHub Stats  
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SwapnilRao619&bg_color=1d1c1f&color=ffffff&line=bcb9c4&point=ffffff&area=true&hide_border=false">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xGajendra&bg_color=1d1c1f&color=ffffff&line=bcb9c4&point=ffffff&area=true&hide_border=false">
   </a>
 </p>
 <hr/>
