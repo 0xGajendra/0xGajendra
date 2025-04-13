@@ -3,14 +3,14 @@
   <table>
     <tr>
       <td valign="middle" align="center">
-        <p>
-          Visitor count<br />
-          <img src="https://profile-counter.glitch.me/0xgajendra/count.svg" />
-        </p>
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnFydmJic3NjNXI4ZHl5MGRreXlzbHlqZDd4aWJ2MWQxbXRlMzVpNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xCCqt6qDewWf6zriPX/giphy.gif" height="300" />
       </td>
       <td valign="middle" align="center">
         <h4>
+        <p>
+          Visitor count<br />
+          <img src="https://profile-counter.glitch.me/0xgajendra/count.svg" />
+        </p>
           Hey There!
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="48" height="48" />
         </h4>
