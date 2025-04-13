@@ -77,7 +77,7 @@
 
 <!-- 🔗 Socials -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Darker+Grotesque&size=100&duration=1000&pause=5000&color=03FF0B&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=Socials" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Darker+Grotesque&size=100&duration=1000&pause=5000&color=03FF0B&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Socials" />
 
   <p align="center">
   <a href="https://linkedin.com/in/gajendra-li" target="_blank">
