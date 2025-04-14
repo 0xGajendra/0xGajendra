@@ -26,7 +26,7 @@
 
 <!-- 👨‍💻 Taglines -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Darker+Grotesque&weight=600&size=80&duration=800&pause=1000&color=03FF0BFF&center=true&vCenter=true&&width=600&height=100&lines=I+Design+Websites;I+Develop+Websites;I+Deploy+Websites" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Darker+Grotesque&weight=600&size=80&duration=1300&pause=1300&color=03FF0BFF&center=true&vCenter=true&&width=600&height=100&lines=I+Design+Websites;I+Develop+Websites;I+Deploy+Websites" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Darker+Grotesque&weight=600&size=30&duration=1000&pause=6000&color=03FF0BFF&center=true&vCenter=true&multiline=true&width=1000&height=50&lines=CSE+undergrad+focused+on+MERN+stack+development" />
 
