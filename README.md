@@ -59,6 +59,12 @@
 
 <br />
 
+<hr/>
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
+
 <!-- 📊 GitHub Stats -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Darker+Grotesque&size=100&duration=1000&pause=5000&color=03FF0B&center=true&vCenter=true&multiline=true&width=1000&height=140&lines=GitHub+Stats" />
