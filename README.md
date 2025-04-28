@@ -108,7 +108,7 @@ HTML         2 hrs 44 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="40" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/your-discord-id" target="_blank">
+  <a href="https://discord.com/users/650627133076668421" target="_blank">
     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/discord.svg" width="40" height="40" />
   </a>
 </p>
