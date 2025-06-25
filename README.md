@@ -100,7 +100,7 @@ Markdown     4 hrs 46 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" width="40" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/gajendra_tw" target="_blank">
+  <a href="https://x.com/Tenma_dev" target="_blank">
     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter.svg" width="40" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
