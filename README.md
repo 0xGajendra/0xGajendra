@@ -9,7 +9,7 @@
         <h4>
         <p>
           Visitor count<br />
-          <img src="https://profile-counter.glitch.me/0xgajendra/count.svg" />
+          <img src="https://views.igorkowalczyk.dev/api/badge/0xGajendra?labelColor=gray&color=gray" />
         </p>
           Hey There!
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="48" height="48" />
