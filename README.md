@@ -83,8 +83,8 @@ Markdown     4 hrs 48 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xGajendra&bg_color=1d1c1f&color=ffffff&line=bcb9c4&point=ffffff&area=true&hide_border=false" />
   </a>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=0xGajendra&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xGajendra&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xGajendra&show_icons=true&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xGajendra&layout=compact&theme=chartreuse-dark" />
 </div>
 
 <br />
