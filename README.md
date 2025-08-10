@@ -80,7 +80,7 @@ Markdown     4 hrs 48 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <img src="https://readme-typing-svg.herokuapp.com?font=Darker+Grotesque&size=100&duration=1000&pause=5000&color=03FF0B&center=true&vCenter=true&multiline=true&width=1000&height=140&lines=GitHub+Stats" />
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xGajendra&bg_color=1d1c1f&color=ffffff&line=bcb9c4&point=ffffff&area=true&hide_border=false" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xGajendra&custom_title=Gajendra's%20Code%20Drops%20/%20Contributions&hide_border=true&theme=github-compact" />
   </a>
 
   <img src="https://github-readme-stats.vercel.app/api?username=0xGajendra&show_icons=true&theme=chartreuse-dark" />
