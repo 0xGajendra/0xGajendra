@@ -17,7 +17,7 @@ Go                         9 hrs 23 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!-- 📊 GitHub Stats -->
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xGajendra&custom_title=Gajendra's%20Code%20/%20Contributions&hide_border=true&theme=github-compact" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xGajendra&custom_title=Gajendra's%20Contributions%20 Graph&hide_border=true&theme=github-compact" />
   </a>
 
 
